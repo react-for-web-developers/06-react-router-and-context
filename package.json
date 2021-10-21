@@ -1,0 +1,15 @@
+{
+  "name": "06-react-router-and-context",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "reveal-md -w  --theme night --highlightTheme hybrid --port 1337 --css styles.css README.md",
+    "build": "reveal-md  --theme night --highlightTheme hybrid --css styles.css README.md --static dist",
+    "pdf": "reveal-md  --theme night --highlightTheme hybrid --css styles.css README.md --print slides.pdf"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
